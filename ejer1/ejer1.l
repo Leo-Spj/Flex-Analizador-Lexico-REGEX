@@ -20,7 +20,6 @@ MAYUSCULAS [A-Z]+
 {MINISCULAS} 	{printf("Letra(s) Minuscula(s)");}
 {MAYUSCULAS} 	{printf("Letra(s) Mayuscula(s)");}
 
-
 %%
 
 int main()
